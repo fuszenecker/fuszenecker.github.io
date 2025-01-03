@@ -398,3 +398,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+docs/2025.1/README.md
+docs/2025.1/LICENSE
